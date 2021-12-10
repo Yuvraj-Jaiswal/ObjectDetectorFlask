@@ -1,0 +1,6 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+Flask
+gunicorn
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
+Pillow==2.6.1
